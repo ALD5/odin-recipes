@@ -10,4 +10,4 @@ Skills demonstrated:
 
 - **Problem-Solving Skills**: By toubleshooting issues that arose during the development process I have improved my problem-solving skills through research and experimentation.
 
-This project proved to be a good opportunity to apply some of my fundamental web development knowledge. It also proved as good practice in using linux base operating systems, namely Ubuntu. As all file creation, edits and deployment for this project was done through the Xubuntu console on a Ubuntu VM.
+This project proved to be a good opportunity to apply some of my fundamental web development knowledge. It also proved as good practice in using linux base operating systems, namely Ubuntu. As all file creation, deletion and edits for this project was done through the Xubuntu console on a Ubuntu VM.
